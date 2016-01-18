@@ -11,9 +11,6 @@
     "symbol"
   ],
   "homepage": "https://github.com/bengourley/currency-symbol-map",
-  "moduleType": [
-    "node"
-  ],
   "ignore": [
     "**/.*",
     "node_modules",
