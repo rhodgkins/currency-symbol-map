@@ -1,7 +1,7 @@
 {
   "name": "currency-symbol-map",
   "description": "A function to lookup the currency symbol for a given currency code",
-  "main": "currency-symbol-map.js",
+  "main": "dist/currency-symbol-map.js",
   "authors": [
     "Ben Gourley"
   ],
